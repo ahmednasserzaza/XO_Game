@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5C5467</color>
+    <color name="colorPrimaryDark">#33A1AF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBtn">#322727</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorResetBtn">#00BCD4</color>
+    <color name="player1Color">#FF5722</color>
+    <color name="player2Color">#FFEB3B</color>
+    <color name="playerOneTextBackground">#FF5722</color>
+    <color name="playerTwoTextBackground">#4CAF50</color>
+    <color name="playerStatus">#2196F3</color>
+</resources>
